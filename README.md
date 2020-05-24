@@ -2,7 +2,19 @@
 
 The Chess Engine is  one of it's kind. The development of this chess engine is under development. Once, Completed, It will have various features!
 
-### Features
+
+## Table of Content
+
+The content is as follows:
+* [Features](#features)
+
+* [Progress](#progress)
+
+* [Files](#files)
+
+* [Credits](#credits)
+
+## Features
 
 [x] Interactive
 
@@ -19,5 +31,12 @@ while not end:
 ```
 I am working in this part for making the main part of the game.
 
-##Credits
-Made & Managed by [Manan](https://www.mananpro.me)
+### Files
+
+
+* [Main file](py.py)
+
+* [Interactive file](interactive.py)
+
+## Credits
+Repo created & Managed by [Manan](https://www.mananpro.me)
